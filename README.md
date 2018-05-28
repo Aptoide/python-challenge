@@ -4,8 +4,8 @@
 
 You are asked to implement an Autocomplete API that helps users searching for apps by
 their name. When writing the name of an app, the possible results should be shown to
-the user. As an example, if the user is inputting "Fac", two possible choices are
-"Facebook" and "Facebook Lite".
+the user. For example, if the user is inputting *Fac*, two possible choices are
+*Facebook* and *Facebook Lite*.
 
 The challenge is composed of 2 main components:
 
