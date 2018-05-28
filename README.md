@@ -49,7 +49,7 @@ tests than to have a **lot of code without automated tests** to ensure its quali
 
 ## Helpers
 
-* We're providing 2 corpus in the *test_files* directory with different sizes that can be used for testing
+* We're providing 2 corpus in the [*test_files*](./test_files) directory with different sizes that can be used for testing
 * Regarding the autocomplete system's data structure, search for **Trie** and **Tree-like data structures**
 * As for the autocomplete system's search algorithm, search for **BFS/DFS algorithms**
 * For the API and web server, read about **Flask** (Python module)
